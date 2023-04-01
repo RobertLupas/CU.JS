@@ -1,0 +1,12 @@
+{
+  "name": "CU.JS",
+  "version": "1.0.0",
+  "description": "Common Utilities for your website, like dropdowns, theme system, and more, all in a very small package size!",
+  "main": "dist\\common-utilities-bundle.js",
+  "repository": "https://github.com/half-real-SCRACX/CU.JS.git",
+  "author": "Robert Lupas",
+  "license": "Unlicense",
+  "devDependencies": {
+    "terser-webpack-plugin": "^5.3.7"
+  }
+}
